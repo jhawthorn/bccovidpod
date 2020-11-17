@@ -8,29 +8,36 @@
     <title>COVID-19 BC Updates</title>
     <link>https://github.com/jhawthorn/bccovidpod</link>
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. Be kind, be safe, and be calm.</description>
+    <language>en</language>
     <item>
       <title>COVID-19 BC Update, Nov 16</title>
       <link>https://www.youtube.com/watch?v=WM5VizjCgfc</link>
-      <enclosure url="https://github.com/jhawthorn/bccovidpod/raw/main//data/WM5VizjCgfc.mp3"
+      <enclosure url="https://github.com/jhawthorn/bccovidpod/raw/main/data/WM5VizjCgfc.mp3"
         length="58722154"
         type="audio/mpeg"/>
       <pubDate>Tue, 17 Nov 2020 00:02:32 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/WM5VizjCgfc</guid>
       <dc:date>2020-11-17T00:02:32+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>COVID-19 BC Update, Nov 12</title>
       <link>https://www.youtube.com/watch?v=gaAs47CBZuk</link>
-      <enclosure url="https://github.com/jhawthorn/bccovidpod/raw/main//data/gaAs47CBZuk.mp3"
+      <enclosure url="https://github.com/jhawthorn/bccovidpod/raw/main/data/gaAs47CBZuk.mp3"
         length="87758614"
         type="audio/mpeg"/>
       <pubDate>Fri, 13 Nov 2020 00:56:33 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/gaAs47CBZuk</guid>
       <dc:date>2020-11-13T00:56:33+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <itunes:owner>
+      <itunes:name>John Hawthorn</itunes:name>
+      <itunes:email>john@hawthorn.email</itunes:email>
+    </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
   </channel>
 </rss>

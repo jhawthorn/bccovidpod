@@ -34,11 +34,14 @@ output = RSS::Maker.make("2.0") do |output|
   output.channel.title = "COVID-19 BC Updates"
   output.channel.link = "https://github.com/jhawthorn/bccovidpod"
   output.channel.description = "Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. Be kind, be safe, and be calm."
+  output.channel.language = "en"
 
   output.channel.new_itunes_category "Government"
   output.channel.new_itunes_category "News"
   output.channel.new_itunes_category "Health & Fitness"
   output.channel.itunes_explicit = false
+  output.channel.itunes_owner.itunes_name = "John Hawthorn"
+  output.channel.itunes_owner.itunes_email = "john@hawthorn.email"
 
   input.items.first(ITEM_LIMIT).each do |input_item|
     title = input_item.title.content
@@ -47,14 +50,19 @@ output = RSS::Maker.make("2.0") do |output|
     next unless title =~ /COVID-19 BC Update|Premier Horgan Update/
 
     output.items.new_item do |item|
+      id = "jhawthorn/bccovidpod/#{video_id}"
+
+      item.guid.content = id
+      item.guid.isPermaLink = false
+
       item.title   = input_item.title.content
       item.link    = input_item.link.href
-      item.updated = input_item.updated.content
+      #item.updated = input_item.updated.content
       item.pubDate = input_item.published.content
 
       item.itunes_explicit = false
 
-      base_url = "https://github.com/jhawthorn/bccovidpod/raw/main/" # FIXME
+      base_url = "https://github.com/jhawthorn/bccovidpod/raw/main" # FIXME
       item.enclosure.url = "#{base_url}/data/#{video_id}.mp3"
       item.enclosure.length = File.size("data/#{video_id}.mp3")
       item.enclosure.type = "audio/mpeg"
@@ -64,6 +72,7 @@ output = RSS::Maker.make("2.0") do |output|
   end
 end
 
+File.write("feed.xml", output.to_s)
 puts output
 
 
