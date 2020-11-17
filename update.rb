@@ -3,7 +3,7 @@ require "uri"
 require "rss"
 require "time"
 
-ITEM_LIMIT = 3
+ITEM_LIMIT = 6
 
 uri = URI.parse("https://www.youtube.com/feeds/videos.xml?user=ProvinceofBC")
 response = Net::HTTP.get_response(uri)
@@ -27,8 +27,8 @@ input_items.each do |input_item|
   next if File.exist?(dest)
 
   tmp = "tmp/#{video_id}.m4a"
-  system(*%W[youtube-dl --ignore-config -f bestaudio[ext=m4a] -o #{tmp} #{src}])
-  system(*%W[ffmpeg -i #{tmp} -codec:a libmp3lame -b:a 128k #{dest}])
+  system(*%W[youtube-dl --ignore-config -f bestaudio[ext=m4a] -o #{tmp} #{src}]) || exit($?.to_i)
+  system(*%W[ffmpeg -i #{tmp} -codec:a libmp3lame -b:a 128k #{dest}]) || exit($?.to_i)
 end
 
 output = RSS::Maker.make("2.0") do |output|
