@@ -12,8 +12,8 @@
     <item>
       <title>COVID-19 BC Update, Nov 16</title>
       <link>https://www.youtube.com/watch?v=WM5VizjCgfc</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/WM5VizjCgfc.mp3"
-        length="49667904"
+      <enclosure url="./data/WM5VizjCgfc.mp3"
+        length="133"
         type="audio/mpeg"/>
       <pubDate>Tue, 17 Nov 2020 00:02:32 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/WM5VizjCgfc</guid>
