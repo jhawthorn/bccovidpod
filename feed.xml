@@ -34,6 +34,7 @@
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
+    <itunes:image href="https://raw.githubusercontent.com/jhawthorn/bccovidpod/main/icon.jpg"/>
     <itunes:owner>
       <itunes:name>John Hawthorn</itunes:name>
       <itunes:email>john@hawthorn.email</itunes:email>

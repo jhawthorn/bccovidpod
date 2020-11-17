@@ -30,7 +30,6 @@ end
 output = RSS::Maker.make("2.0") do |output|
   output.encoding = 'utf-8'
 
-  output.channel.author = "Province of BC, podcastified by jhawthorn"
   output.channel.title = "COVID-19 BC Updates"
   output.channel.link = "https://github.com/jhawthorn/bccovidpod"
   output.channel.description = "Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. Be kind, be safe, and be calm."
@@ -40,6 +39,7 @@ output = RSS::Maker.make("2.0") do |output|
   output.channel.new_itunes_category "News"
   output.channel.new_itunes_category "Health & Fitness"
   output.channel.itunes_explicit = false
+  output.channel.itunes_image = "https://raw.githubusercontent.com/jhawthorn/bccovidpod/main/icon.jpg"
   output.channel.itunes_owner.itunes_name = "John Hawthorn"
   output.channel.itunes_owner.itunes_email = "john@hawthorn.email"
 
