@@ -1,13 +1,15 @@
-# BC COVID-19 pod
+# BC COVID-19 Podcast feed
 
-This repository checks daily to convert the BC Government COVID-19 Updates from Dr. Bonnie Henry, Adrian Dix, and the BC minnistry of health into a standard, audio only podcast feed.
+This converts the BC Government COVID-19 Updates from Dr. Bonnie Henry, Adrian Dix, and the BC minnistry of health into a standard, audio only podcast feed.
+
+_This is unofficial_. Intended as a more convenient way to listen, but may stop working at any time. Please check the official [Province of BC youtube channel](https://www.youtube.com/user/ProvinceofBC) for updates and the [BC CDC website](http://covid-19.bccdc.ca/) for more information.
 
 It is available using this feed:
 
-```
-https://raw.githubusercontent.com/jhawthorn/bccovidpod/main/feed.xml
-```
+**RSS:** `https://raw.githubusercontent.com/jhawthorn/bccovidpod/main/feed.xml`
 
+**Pocket Casts:** https://pca.st/g9m4bxbw
+**Overcast:** https://overcast.fm/+l_ucpTC6g
 
 ---
 
