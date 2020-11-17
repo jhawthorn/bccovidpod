@@ -28,6 +28,10 @@ jobs:
         git config user.name github-actions
         git config user.email github-actions@github.com
         git status
-        git add feed.xml data/
+        git add feed.xml
         git commit -m "Updated $(date -u)" || exit 0
         git push
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        S3_BUCKET: bccovidpod
