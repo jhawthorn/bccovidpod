@@ -36,7 +36,7 @@ output = RSS::Maker.make("2.0") do |output|
 
   output.channel.title = "COVID-19 BC Updates"
   output.channel.link = "https://github.com/jhawthorn/bccovidpod"
-  output.channel.description = "Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. Be kind, be safe, and be calm."
+  output.channel.description = "Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be kind, be safe, and be calm."
   output.channel.language = "en"
 
   output.channel.new_itunes_category "Government"
