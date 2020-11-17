@@ -15,8 +15,6 @@ end
 input = RSS::Parser.parse(response.body, validate: false)
 input_items = input.items.first(ITEM_LIMIT)
 
-base_url = "https://jhawthorn.github.io/bccovidpod/"
-
 input_items.each do |input_item|
   video_id = input_item.id.content[/\Ayt:video:(.*)\z/, 1]
   src = "https://www.youtube.com/watch?v=#{video_id}"
@@ -24,7 +22,9 @@ input_items.each do |input_item|
 
   next if File.exist?(dest)
 
-  system(*%W[youtube-dl -f bestaudio[ext=m4a] -x --audio-format mp3 -o #{dest} #{src}])
+  tmp = "tmp/#{video_id}.m4a"
+  system(*%W[youtube-dl --ignore-config -f bestaudio[ext=m4a] -o #{tmp} #{src}])
+  system(*%W[ffmpeg -i #{tmp} -codec:a libmp3lame -b:a 128k #{dest}])
 end
 
 output = RSS::Maker.make("2.0") do |output|
@@ -32,8 +32,8 @@ output = RSS::Maker.make("2.0") do |output|
 
   output.channel.author = "Province of BC, podcastified by jhawthorn"
   output.channel.title = "COVID-19 BC Updates"
-  output.channel.link = "#{base_url}"
-  output.channel.description = "Province of BC Covid-19 updates, pulled from youtube into a podcast for easy listening. Be kind, be safe, and be calm."
+  output.channel.link = "https://github.com/jhawthorn/bccovidpod"
+  output.channel.description = "Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. Be kind, be safe, and be calm."
 
   output.channel.new_itunes_category "Government"
   output.channel.new_itunes_category "News"
@@ -42,6 +42,7 @@ output = RSS::Maker.make("2.0") do |output|
 
   input.items.first(ITEM_LIMIT).each do |input_item|
     title = input_item.title.content
+    video_id = input_item.id.content[/\Ayt:video:(.*)\z/, 1]
 
     next unless title =~ /COVID-19 BC Update|Premier Horgan Update/
 
@@ -52,6 +53,11 @@ output = RSS::Maker.make("2.0") do |output|
       item.pubDate = input_item.published.content
 
       item.itunes_explicit = false
+
+      base_url = "https://raw.githubusercontent.com/jhawthorn/bccovidpod/main" # FIXME
+      item.enclosure.url = "#{base_url}/data/#{video_id}.mp3"
+      item.enclosure.length = File.size("data/#{video_id}.mp3")
+      item.enclosure.type = "audio/mpeg"
 
       # item.itunes_duration = # FIXME
     end
