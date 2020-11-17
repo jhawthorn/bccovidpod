@@ -3,7 +3,7 @@ require "uri"
 require "rss"
 require "time"
 
-ITEM_LIMIT = 2
+ITEM_LIMIT = 3
 
 uri = URI.parse("https://www.youtube.com/feeds/videos.xml?user=ProvinceofBC")
 response = Net::HTTP.get_response(uri)
@@ -13,7 +13,11 @@ unless response.code == "200"
 end
 
 input = RSS::Parser.parse(response.body, validate: false)
-input_items = input.items.first(ITEM_LIMIT)
+
+input_items = input.items.select do |input_item|
+    title = input_item.title.content
+    title =~ /COVID-19 BC Update|Premier Horgan Update/
+end.first(ITEM_LIMIT)
 
 input_items.each do |input_item|
   video_id = input_item.id.content[/\Ayt:video:(.*)\z/, 1]
@@ -43,13 +47,9 @@ output = RSS::Maker.make("2.0") do |output|
   output.channel.itunes_owner.itunes_name = "John Hawthorn"
   output.channel.itunes_owner.itunes_email = "john@hawthorn.email"
 
-  input.items.first(ITEM_LIMIT).each do |input_item|
-    title = input_item.title.content
-    video_id = input_item.id.content[/\Ayt:video:(.*)\z/, 1]
-
-    next unless title =~ /COVID-19 BC Update|Premier Horgan Update/
-
+  input_items.each do |input_item|
     output.items.new_item do |item|
+      video_id = input_item.id.content[/\Ayt:video:(.*)\z/, 1]
       id = "jhawthorn/bccovidpod/#{video_id}"
 
       item.guid.content = id
