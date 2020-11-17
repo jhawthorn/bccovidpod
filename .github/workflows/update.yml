@@ -21,8 +21,10 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.7
+    - name: Installing gems
+      run: bundle install -j4
     - name: Sync updates
-      run: ruby update.rb
+      run: bundle exec ruby update.rb
       env:
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
