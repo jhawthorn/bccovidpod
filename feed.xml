@@ -31,6 +31,50 @@
       <dc:date>2020-11-13T00:56:33+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+      <title>COVID-19 BC Update, Nov 9</title>
+      <link>https://www.youtube.com/watch?v=ZaI8nRDGhD8</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/ZaI8nRDGhD8.mp3"
+        length="64102125"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 10 Nov 2020 00:15:16 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/ZaI8nRDGhD8</guid>
+      <dc:date>2020-11-10T00:15:16+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Premier Horgan Update November 9,  2020</title>
+      <link>https://www.youtube.com/watch?v=72Skfek0zhk</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/72Skfek0zhk.mp3"
+        length="35912450"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 09 Nov 2020 20:59:17 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/72Skfek0zhk</guid>
+      <dc:date>2020-11-09T20:59:17+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>COVID-19 BC Update, Nov 7</title>
+      <link>https://www.youtube.com/watch?v=G5HwRHarZ9Y</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/G5HwRHarZ9Y.mp3"
+        length="67770134"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 07 Nov 2020 22:17:16 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/G5HwRHarZ9Y</guid>
+      <dc:date>2020-11-07T22:17:16+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>COVID-19 BC Update, Nov 5</title>
+      <link>https://www.youtube.com/watch?v=EO0oXPCEat4</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/EO0oXPCEat4.mp3"
+        length="63159209"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 06 Nov 2020 00:07:43 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/EO0oXPCEat4</guid>
+      <dc:date>2020-11-06T00:07:43+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
