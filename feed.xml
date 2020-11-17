@@ -13,7 +13,7 @@
       <title>COVID-19 BC Update, Nov 16</title>
       <link>https://www.youtube.com/watch?v=WM5VizjCgfc</link>
       <enclosure url="https://github.com/jhawthorn/bccovidpod/raw/main/data/WM5VizjCgfc.mp3"
-        length="58722154"
+        length="133"
         type="audio/mpeg"/>
       <pubDate>Tue, 17 Nov 2020 00:02:32 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/WM5VizjCgfc</guid>
@@ -24,11 +24,22 @@
       <title>COVID-19 BC Update, Nov 12</title>
       <link>https://www.youtube.com/watch?v=gaAs47CBZuk</link>
       <enclosure url="https://github.com/jhawthorn/bccovidpod/raw/main/data/gaAs47CBZuk.mp3"
-        length="87758614"
+        length="133"
         type="audio/mpeg"/>
       <pubDate>Fri, 13 Nov 2020 00:56:33 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/gaAs47CBZuk</guid>
       <dc:date>2020-11-13T00:56:33+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>COVID-19 BC Update, Nov 9</title>
+      <link>https://www.youtube.com/watch?v=ZaI8nRDGhD8</link>
+      <enclosure url="https://github.com/jhawthorn/bccovidpod/raw/main/data/ZaI8nRDGhD8.mp3"
+        length="68802076"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 10 Nov 2020 00:15:16 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/ZaI8nRDGhD8</guid>
+      <dc:date>2020-11-10T00:15:16+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
