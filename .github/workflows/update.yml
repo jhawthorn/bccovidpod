@@ -10,9 +10,13 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-       lfs: true
-    - name: Install youtube-dl and ffmpeg
-      run: sudo apt-get install youtube-dl ffmpeg
+       lfs: true-
+    - name: Install youtube-dl
+      run: |
+        sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+        sudo chmod a+rx /usr/local/bin/youtube-dl
+    - name: Install ffmpeg
+      run: sudo apt-get install ffmpeg
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
