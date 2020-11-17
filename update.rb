@@ -54,7 +54,7 @@ output = RSS::Maker.make("2.0") do |output|
 
       item.itunes_explicit = false
 
-      base_url = "https://raw.githubusercontent.com/jhawthorn/bccovidpod/main" # FIXME
+      base_url = "https://github.com/jhawthorn/bccovidpod/raw/main/" # FIXME
       item.enclosure.url = "#{base_url}/data/#{video_id}.mp3"
       item.enclosure.length = File.size("data/#{video_id}.mp3")
       item.enclosure.type = "audio/mpeg"
