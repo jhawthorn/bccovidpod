@@ -4,7 +4,7 @@ require "rss"
 require "time"
 require "fileutils"
 
-ITEM_LIMIT = 6
+ITEM_LIMIT = ENV.fetch("ITEM_LIMIT", 1).to_i
 
 uri = URI.parse("https://www.youtube.com/feeds/videos.xml?user=ProvinceofBC")
 response = Net::HTTP.get_response(uri)
