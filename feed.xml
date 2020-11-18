@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be kind, be safe, and be calm.</description>
     <language>en</language>
     <item>
+      <title>Premier Horgan - Live Media Availability, November 18,  2020</title>
+      <link>https://www.youtube.com/watch?v=shP5bPHJsN8</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/shP5bPHJsN8.mp3"
+        length="37920325"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 18 Nov 2020 19:08:07 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/shP5bPHJsN8</guid>
+      <dc:date>2020-11-18T19:08:07+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>COVID-19 BC Update, Nov 16</title>
       <link>https://www.youtube.com/watch?v=WM5VizjCgfc</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/WM5VizjCgfc.mp3"
@@ -62,17 +73,6 @@
       <pubDate>Sat, 07 Nov 2020 22:17:16 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/G5HwRHarZ9Y</guid>
       <dc:date>2020-11-07T22:17:16+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 BC Update, Nov 5</title>
-      <link>https://www.youtube.com/watch?v=EO0oXPCEat4</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/EO0oXPCEat4.mp3"
-        length="63159209"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 06 Nov 2020 00:07:43 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/EO0oXPCEat4</guid>
-      <dc:date>2020-11-06T00:07:43+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
