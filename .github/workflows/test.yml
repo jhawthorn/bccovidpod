@@ -1,0 +1,24 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install youtube-dl
+      run: |
+        sudo wget -q https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+        sudo chmod a+rx /usr/local/bin/youtube-dl
+    - name: Install ffmpeg
+      run: |
+        wget -q https://johnvansickle.com/ffmpeg/builds/ffmpeg-git-amd64-static.tar.xz -O - | sudo tar xvJ --strip-components=1 -C /usr/local/bin/ --no-anchored ffmpeg ffprobe
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.7
+    - name: Installing gems
+      run: bundle install -j4
+    - name: Sync updates
+      run: bundle exec ruby update.rb
