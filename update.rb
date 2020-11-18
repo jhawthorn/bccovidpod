@@ -62,7 +62,8 @@ class S3Storage
   def store(dest, src, content_type: "audio/mpeg")
     options = {
       acl: "public-read",
-      content_type: content_type
+      content_type: content_type,
+      content_disposition: "inline"
     }
     @bucket.object(dest).upload_file(src, options)
   end
