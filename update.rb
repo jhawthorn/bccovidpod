@@ -30,7 +30,8 @@ class FileStorage
     File.size("data/#{file}")
   end
 
-  def store(dest, src)
+  def store(dest, src, **options)
+    FileUtils.mkdir_p("data")
     FileUtils.cp(src, "data/#{dest}")
   end
 
@@ -58,10 +59,10 @@ class S3Storage
     @bucket.object(file).size
   end
 
-  def store(dest, src)
+  def store(dest, src, content_type: "audio/mpeg")
     options = {
       acl: "public-read",
-      content_type: "audio/mpeg"
+      content_type: content_type
     }
     @bucket.object(dest).upload_file(src, options)
   end
@@ -134,5 +135,8 @@ output = RSS::Maker.make("2.0") do |output|
   end
 end
 
-File.write("feed.xml", output.to_s)
 puts output
+
+tmp = "tmp/feed.xml"
+File.write(tmp, output.to_s)
+storage.store("feed.xml", tmp, content_type: "application/rss+xml")
