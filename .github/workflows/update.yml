@@ -16,8 +16,7 @@ jobs:
         sudo wget -q https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
         sudo chmod a+rx /usr/local/bin/youtube-dl
     - name: Install ffmpeg
-      run: |
-        wget -q --timeout=120 https://johnvansickle.com/ffmpeg/builds/ffmpeg-git-amd64-static.tar.xz -O - | sudo tar xvJ --strip-components=1 -C /usr/local/bin/ --no-anchored ffmpeg ffprobe
+      run: sudo apt-get install ffmpeg
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
