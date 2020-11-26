@@ -6,7 +6,7 @@
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
     <title>COVID-19 BC Updates</title>
-    <link>https://github.com/jhawthorn/bccovidpod</link>
+    <link>https://covid.hawth.ca/</link>
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
@@ -78,7 +78,7 @@
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
-    <itunes:image href="https://raw.githubusercontent.com/jhawthorn/bccovidpod/main/icon.jpg"/>
+    <itunes:image href="https://covid.hawth.ca/icon.jpg"/>
     <itunes:owner>
       <itunes:name>John Hawthorn</itunes:name>
       <itunes:email>john@hawthorn.email</itunes:email>
