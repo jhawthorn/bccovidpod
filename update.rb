@@ -100,7 +100,7 @@ output = RSS::Maker.make("2.0") do |output|
 
   output.channel.title = "COVID-19 BC Updates"
   output.channel.author = "John Hawthorn"
-  output.channel.link = "https://github.com/jhawthorn/bccovidpod"
+  output.channel.link = "https://covid.hawth.ca/"
   output.channel.description = "Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe."
   output.channel.language = "en"
 
@@ -108,7 +108,7 @@ output = RSS::Maker.make("2.0") do |output|
   output.channel.new_itunes_category "News"
   output.channel.new_itunes_category "Health & Fitness"
   output.channel.itunes_explicit = false
-  output.channel.itunes_image = "https://raw.githubusercontent.com/jhawthorn/bccovidpod/main/icon.jpg"
+  output.channel.itunes_image = "https://covid.hawth.ca/icon.jpg"
   output.channel.itunes_owner.itunes_name = "John Hawthorn"
   output.channel.itunes_owner.itunes_email = "john@hawthorn.email"
 
