@@ -16,7 +16,7 @@ jobs:
         sudo wget -q https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
         sudo chmod a+rx /usr/local/bin/youtube-dl
     - name: Install ffmpeg
-      run: sudo apt-get install ffmpeg
+      run: sudo apt-get update && sudo apt-get install ffmpeg
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
