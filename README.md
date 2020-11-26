@@ -4,12 +4,11 @@ This converts the BC Government COVID-19 Updates from Dr. Bonnie Henry, Adrian D
 
 _This is unofficial_. Intended as a more convenient way to listen, but may stop working at any time. Please check the official [Province of BC youtube channel](https://www.youtube.com/user/ProvinceofBC) for updates and the [BC CDC website](http://covid-19.bccdc.ca/) for more information.
 
-It is available using this feed:
+It is available using this RSS feed: `https://raw.githubusercontent.com/jhawthorn/bccovidpod/main/feed.xml`
 
-**RSS:** `https://raw.githubusercontent.com/jhawthorn/bccovidpod/main/feed.xml`
+Latest episode and subscription links for specific apps are available at
 
-**Pocket Casts:** https://pca.st/g9m4bxbw
-**Overcast:** https://overcast.fm/+l_ucpTC6g
+https://covid.hawth.ca/
 
 ---
 
