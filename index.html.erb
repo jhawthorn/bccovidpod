@@ -56,13 +56,14 @@
         Be Calm, Be Kind, Be Safe
       </header>
 
+      <% first_ep = RSS::Parser.parse(File.read("feed.xml"), validate: false).items.first %>
+
       <section>
-        <h1>COVID-19 BC Update, Nov 25</h1>
+        <h1><%= first_ep.title %></h1>
 
         <img src="https://covid.hawth.ca/icon.jpg">
       </section>
 
-      <% first_ep = RSS::Parser.parse(File.read("feed.xml"), validate: false).items.first %>
       <section>
         <audio
           controls
