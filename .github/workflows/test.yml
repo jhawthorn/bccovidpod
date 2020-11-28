@@ -21,3 +21,5 @@ jobs:
       run: bundle install -j4
     - name: Sync updates
       run: bundle exec ruby update.rb
+    - name: Generate landing page
+      run: bundle exec ruby -r rss -S erb index.html.erb > index.html
