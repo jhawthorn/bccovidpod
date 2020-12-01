@@ -90,7 +90,7 @@ input_items.each do |input_item|
 
   system(*%W[youtube-dl --ignore-config -f bestaudio[ext=m4a] -o #{original} #{src_url}]) || exit($?.to_i)
 
-  system(*%W[ffmpeg -y -i #{original} -codec:a libmp3lame -b:a 128k -af silenceremove=2:0.01:-20dB #{converted}]) || exit($?.to_i)
+  system(*%W[ffmpeg -y -i #{original} -codec:a libmp3lame -b:a 128k -af silenceremove=1:0.01:-20dB #{converted}]) || exit($?.to_i)
 
   storage.store(dest, converted)
 end
