@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>Surgical Renewal Strategy Update, Jan 6, 2021</title>
+      <link>https://www.youtube.com/watch?v=w_RQ4a2fSpo</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/w_RQ4a2fSpo.mp3"
+        length="46941556"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 06 Jan 2021 19:54:23 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/w_RQ4a2fSpo</guid>
+      <dc:date>2021-01-06T19:54:23+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>COVID-19 BC Update, Jan 4, 2021</title>
       <link>https://www.youtube.com/watch?v=o2iFGaxSHR4</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/o2iFGaxSHR4.mp3"
