@@ -17,7 +17,7 @@ input = RSS::Parser.parse(response.body, validate: false)
 
 input_items = input.items.select do |input_item|
     title = input_item.title.content
-    title =~ /COVID-19 (Vaccine |BC )?Update|Surgical Renewal Strategy Update|Premier Horgan Update|Media Availability/i
+    title =~ /COVID-19 (Vaccine |BC |Immunization Plan)?Update||Surgical Renewal Strategy Update|Premier Horgan Update|Media Availability/i
 end.first(ITEM_LIMIT)
 
 # for testing
