@@ -42,28 +42,6 @@
       <dc:date>2021-01-27T21:38:25+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
-    <item>
-      <title>COVID-19 BC Update, Jan 25, 2021</title>
-      <link>https://www.youtube.com/watch?v=bnJ_cJLZJY0</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/bnJ_cJLZJY0.mp3"
-        length="66097880"
-        type="audio/mpeg"/>
-      <pubDate>Tue, 26 Jan 2021 00:27:03 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/bnJ_cJLZJY0</guid>
-      <dc:date>2021-01-26T00:27:03+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 Immunization Plan Update Jan 22, 2021</title>
-      <link>https://www.youtube.com/watch?v=zAzmxO1JcgQ</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/zAzmxO1JcgQ.mp3"
-        length="75273756"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 22 Jan 2021 19:53:59 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/zAzmxO1JcgQ</guid>
-      <dc:date>2021-01-22T19:53:59+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
