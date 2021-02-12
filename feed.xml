@@ -53,28 +53,6 @@
       <dc:date>2021-02-02T00:07:58+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
-    <item>
-      <title>COVID-19 BC Update, Jan 29, 2021</title>
-      <link>https://www.youtube.com/watch?v=XX2mx7aePLQ</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/XX2mx7aePLQ.mp3"
-        length="56129553"
-        type="audio/mpeg"/>
-      <pubDate>Sat, 30 Jan 2021 00:09:54 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/XX2mx7aePLQ</guid>
-      <dc:date>2021-01-30T00:09:54+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Premier Horgan - Live Media Availability, Jan 27, 2021</title>
-      <link>https://www.youtube.com/watch?v=BwATJiqmUWs</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/BwATJiqmUWs.mp3"
-        length="32887679"
-        type="audio/mpeg"/>
-      <pubDate>Wed, 27 Jan 2021 21:38:25 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/BwATJiqmUWs</guid>
-      <dc:date>2021-01-27T21:38:25+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
