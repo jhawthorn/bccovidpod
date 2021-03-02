@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>BC's immunization plan rollout, March 1, 2021</title>
+      <link>https://www.youtube.com/watch?v=PCHv1Mw-pfY</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/PCHv1Mw-pfY.mp3"
+        length="76092120"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 01 Mar 2021 19:59:58 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/PCHv1Mw-pfY</guid>
+      <dc:date>2021-03-01T19:59:58+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Premier Horgan - Live Media Availability</title>
       <link>https://www.youtube.com/watch?v=phpuk7vWx1o</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/phpuk7vWx1o.mp3"
@@ -62,17 +73,6 @@
       <pubDate>Wed, 17 Feb 2021 00:02:32 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/yhHjnM-VGw8</guid>
       <dc:date>2021-02-17T00:02:32+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 BC Update, Feb 12, 2021</title>
-      <link>https://www.youtube.com/watch?v=gy3Wv2rMcWQ</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/gy3Wv2rMcWQ.mp3"
-        length="53997955"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 12 Feb 2021 23:59:53 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/gy3Wv2rMcWQ</guid>
-      <dc:date>2021-02-12T23:59:53+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
