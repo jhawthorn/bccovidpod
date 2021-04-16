@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>COVID-19 BC Update, April 15, 2021</title>
+      <link>https://www.youtube.com/watch?v=MzB_BRqZ3kA</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/MzB_BRqZ3kA.mp3"
+        length="75340211"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 15 Apr 2021 22:30:41 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/MzB_BRqZ3kA</guid>
+      <dc:date>2021-04-15T22:30:41+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>COVID-19 BC Update, April 12, 2021</title>
       <link>https://www.youtube.com/watch?v=ysqxhxzqmnU</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/ysqxhxzqmnU.mp3"
@@ -62,17 +73,6 @@
       <pubDate>Mon, 29 Mar 2021 21:15:20 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/hFF-O8UJK68</guid>
       <dc:date>2021-03-29T21:15:20+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 BC Update, Mar 25, 2021</title>
-      <link>https://www.youtube.com/watch?v=n8l4gDE7fnA</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/n8l4gDE7fnA.mp3"
-        length="66549276"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 25 Mar 2021 21:12:27 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/n8l4gDE7fnA</guid>
-      <dc:date>2021-03-25T21:12:27+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
