@@ -53,28 +53,6 @@
       <dc:date>2021-04-08T22:23:49+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
-    <item>
-      <title>COVID-19 BC Update, April 6, 2021</title>
-      <link>https://www.youtube.com/watch?v=GDHCxXhhP_0</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/GDHCxXhhP_0.mp3"
-        length="54233690"
-        type="audio/mpeg"/>
-      <pubDate>Tue, 06 Apr 2021 23:00:46 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/GDHCxXhhP_0</guid>
-      <dc:date>2021-04-06T23:00:46+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 BC Update, Apr 1 2021</title>
-      <link>https://www.youtube.com/watch?v=u7SGo3smA8g</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/u7SGo3smA8g.mp3"
-        length="80765739"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 01 Apr 2021 23:28:24 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/u7SGo3smA8g</guid>
-      <dc:date>2021-04-01T23:28:24+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
