@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>COVID-19 BC Update, Apr 29 2021</title>
+      <link>https://www.youtube.com/watch?v=Y8pzaufo3aQ</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/Y8pzaufo3aQ.mp3"
+        length="61825083"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 29 Apr 2021 21:13:30 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/Y8pzaufo3aQ</guid>
+      <dc:date>2021-04-29T21:13:30+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>COVID-19 BC Update, Apr 26 2021</title>
       <link>https://www.youtube.com/watch?v=J3DJ0cSzzM8</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/J3DJ0cSzzM8.mp3"
@@ -29,28 +40,6 @@
       <pubDate>Thu, 22 Apr 2021 21:10:52 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/Xbg7mk0LydA</guid>
       <dc:date>2021-04-22T21:10:52+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 BC Update, April 19, 2021</title>
-      <link>https://www.youtube.com/watch?v=aMdlCNgygjE</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/aMdlCNgygjE.mp3"
-        length="76133916"
-        type="audio/mpeg"/>
-      <pubDate>Mon, 19 Apr 2021 22:24:07 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/aMdlCNgygjE</guid>
-      <dc:date>2021-04-19T22:24:07+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 BC Update, April 15, 2021</title>
-      <link>https://www.youtube.com/watch?v=MzB_BRqZ3kA</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/MzB_BRqZ3kA.mp3"
-        length="75340211"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 15 Apr 2021 22:30:41 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/MzB_BRqZ3kA</guid>
-      <dc:date>2021-04-15T22:30:41+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
