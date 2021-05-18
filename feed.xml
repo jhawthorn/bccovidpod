@@ -11,6 +11,17 @@
     <language>en</language>
     <item>
       <title>COVID-19 BC Update</title>
+      <link>https://www.youtube.com/watch?v=fCrpXk5UaWE</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/fCrpXk5UaWE.mp3"
+        length="48023653"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 17 May 2021 22:54:19 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/fCrpXk5UaWE</guid>
+      <dc:date>2021-05-17T22:54:19+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>COVID-19 BC Update</title>
       <link>https://www.youtube.com/watch?v=BJTw8MV76Ws</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/BJTw8MV76Ws.mp3"
         length="74549432"
