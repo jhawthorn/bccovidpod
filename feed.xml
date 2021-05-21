@@ -11,6 +11,17 @@
     <language>en</language>
     <item>
       <title>COVID-19 BC Update</title>
+      <link>https://www.youtube.com/watch?v=Nw8VYmFc2P0</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/Nw8VYmFc2P0.mp3"
+        length="54662934"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 20 May 2021 21:59:48 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/Nw8VYmFc2P0</guid>
+      <dc:date>2021-05-20T21:59:48+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>COVID-19 BC Update</title>
       <link>https://www.youtube.com/watch?v=fCrpXk5UaWE</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/fCrpXk5UaWE.mp3"
         length="48023653"
@@ -62,17 +73,6 @@
       <pubDate>Mon, 03 May 2021 23:06:48 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/bODvBbVnWmw</guid>
       <dc:date>2021-05-03T23:06:48+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 BC Update, Apr 29 2021</title>
-      <link>https://www.youtube.com/watch?v=Y8pzaufo3aQ</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/Y8pzaufo3aQ.mp3"
-        length="61825083"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 29 Apr 2021 21:13:30 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/Y8pzaufo3aQ</guid>
-      <dc:date>2021-04-29T21:13:30+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
