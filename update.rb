@@ -86,6 +86,7 @@ input_items.each do |input_item|
   converted = "tmp/#{video_id}_converted.mp3"
   dest = "#{video_id}.mp3"
 
+  next if video_id == "m6yg0euyvK0" # HACK: video stuck on airing
   next if storage.exists?(dest)
 
   system(*%W[youtube-dl --ignore-config -f bestaudio[ext=m4a] -o #{original} #{src_url}]) || exit($?.to_i)
