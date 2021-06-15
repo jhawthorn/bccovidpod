@@ -86,12 +86,19 @@ input_items.each do |input_item|
   converted = "tmp/#{video_id}_converted.mp3"
   dest = "#{video_id}.mp3"
 
-  next if video_id == "m6yg0euyvK0" # HACK: video stuck on airing
   next if storage.exists?(dest)
 
-  system(*%W[youtube-dl --ignore-config -f bestaudio[ext=m4a] -o #{original} #{src_url}]) || exit($?.to_i)
+  system(*%W[youtube-dl --ignore-config -f bestaudio[ext=m4a] -o #{original} #{src_url}])
+  unless $?.success?
+    warn "download with exit code #{$?.to_i}"
+    next
+  end
 
-  system(*%W[ffmpeg -y -i #{original} -codec:a libmp3lame -b:a 128k -af silenceremove=1:0.01:-20dB #{converted}]) || exit($?.to_i)
+  system(*%W[ffmpeg -y -i #{original} -codec:a libmp3lame -b:a 128k -af silenceremove=1:0.01:-20dB #{converted}])
+  unless $?.success?
+    warn "conversion failed with exit code #{$?.to_i}"
+    next
+  end
 
   storage.store(dest, converted)
 end
@@ -114,8 +121,10 @@ output = RSS::Maker.make("2.0") do |output|
   output.channel.itunes_owner.itunes_email = "john@hawthorn.email"
 
   input_items.each do |input_item|
+    video_id = input_item.id.content[/\Ayt:video:(.*)\z/, 1]
+    next unless storage.exists?("#{video_id}.mp3")
+
     output.items.new_item do |item|
-      video_id = input_item.id.content[/\Ayt:video:(.*)\z/, 1]
       id = "jhawthorn/bccovidpod/#{video_id}"
 
       item.guid.content = id
