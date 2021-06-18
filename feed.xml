@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>COVID-19 BC Update, June 17, 2021</title>
+      <link>https://www.youtube.com/watch?v=MRoBNIK9QGg</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/MRoBNIK9QGg.mp3"
+        length="57413106"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 17 Jun 2021 23:03:53 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/MRoBNIK9QGg</guid>
+      <dc:date>2021-06-17T23:03:53+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>The next step in BC's plan to safely restart June 14, 2021</title>
       <link>https://www.youtube.com/watch?v=hwML26ekeF0</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/hwML26ekeF0.mp3"
@@ -62,17 +73,6 @@
       <pubDate>Fri, 04 Jun 2021 03:25:27 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/C5Mm3Os2QQ0</guid>
       <dc:date>2021-06-04T03:25:27+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 BC Update</title>
-      <link>https://www.youtube.com/watch?v=3UUt6sbu7mw</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/3UUt6sbu7mw.mp3"
-        length="61471907"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 03 Jun 2021 22:10:40 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/3UUt6sbu7mw</guid>
-      <dc:date>2021-06-03T22:10:40+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
