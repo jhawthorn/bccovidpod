@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>COVID-19 BC Update, June 22, 2021</title>
+      <link>https://www.youtube.com/watch?v=b8F0M01FH_0</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/b8F0M01FH_0.mp3"
+        length="57036107"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 22 Jun 2021 23:00:39 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/b8F0M01FH_0</guid>
+      <dc:date>2021-06-22T23:00:39+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>COVID-19 BC Update, June 17, 2021</title>
       <link>https://www.youtube.com/watch?v=MRoBNIK9QGg</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/MRoBNIK9QGg.mp3"
@@ -62,17 +73,6 @@
       <pubDate>Mon, 07 Jun 2021 22:59:32 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/gRtkGB6cK7w</guid>
       <dc:date>2021-06-07T22:59:32+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>AstraZeneca/COVISHIELD and your second dose</title>
-      <link>https://www.youtube.com/watch?v=C5Mm3Os2QQ0</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/C5Mm3Os2QQ0.mp3"
-        length="1441266"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 04 Jun 2021 03:25:27 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/C5Mm3Os2QQ0</guid>
-      <dc:date>2021-06-04T03:25:27+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
