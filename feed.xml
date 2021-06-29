@@ -10,69 +10,14 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
-      <title>COVID-19 BC Update, June 22, 2021</title>
-      <link>https://www.youtube.com/watch?v=b8F0M01FH_0</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/b8F0M01FH_0.mp3"
-        length="57036107"
+      <title>COVID-19 BC Update, June 28, 2021</title>
+      <link>https://www.youtube.com/watch?v=FHsABFs3n0U</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/FHsABFs3n0U.mp3"
+        length="58240247"
         type="audio/mpeg"/>
-      <pubDate>Tue, 22 Jun 2021 23:00:39 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/b8F0M01FH_0</guid>
-      <dc:date>2021-06-22T23:00:39+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 BC Update, June 17, 2021</title>
-      <link>https://www.youtube.com/watch?v=MRoBNIK9QGg</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/MRoBNIK9QGg.mp3"
-        length="57413106"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 17 Jun 2021 23:03:53 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/MRoBNIK9QGg</guid>
-      <dc:date>2021-06-17T23:03:53+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>The next step in BC's plan to safely restart June 14, 2021</title>
-      <link>https://www.youtube.com/watch?v=hwML26ekeF0</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/hwML26ekeF0.mp3"
-        length="56436753"
-        type="audio/mpeg"/>
-      <pubDate>Mon, 14 Jun 2021 22:00:17 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/hwML26ekeF0</guid>
-      <dc:date>2021-06-14T22:00:17+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 BC Update, June 10, 2021</title>
-      <link>https://www.youtube.com/watch?v=oA9eKUnrFn0</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/oA9eKUnrFn0.mp3"
-        length="75761932"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 10 Jun 2021 23:22:46 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/oA9eKUnrFn0</guid>
-      <dc:date>2021-06-10T23:22:46+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Premier John Horgan Media Availability</title>
-      <link>https://www.youtube.com/watch?v=8Y75c9t-_eU</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/8Y75c9t-_eU.mp3"
-        length="33754526"
-        type="audio/mpeg"/>
-      <pubDate>Wed, 09 Jun 2021 22:07:58 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/8Y75c9t-_eU</guid>
-      <dc:date>2021-06-09T22:07:58+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 BC Update</title>
-      <link>https://www.youtube.com/watch?v=gRtkGB6cK7w</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/gRtkGB6cK7w.mp3"
-        length="56019212"
-        type="audio/mpeg"/>
-      <pubDate>Mon, 07 Jun 2021 22:59:32 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/gRtkGB6cK7w</guid>
-      <dc:date>2021-06-07T22:59:32+00:00</dc:date>
+      <pubDate>Mon, 28 Jun 2021 23:07:28 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/FHsABFs3n0U</guid>
+      <dc:date>2021-06-28T23:07:28+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
