@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>Third step in BC’s plan to safely restart the province June 29, 2021</title>
+      <link>https://www.youtube.com/watch?v=TG21x3AtFaQ</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/TG21x3AtFaQ.mp3"
+        length="76353762"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 29 Jun 2021 22:11:44 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/TG21x3AtFaQ</guid>
+      <dc:date>2021-06-29T22:11:44+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>COVID-19 BC Update, June 28, 2021</title>
       <link>https://www.youtube.com/watch?v=FHsABFs3n0U</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/FHsABFs3n0U.mp3"
