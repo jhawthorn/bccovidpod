@@ -10,14 +10,14 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
-      <title>BC's COVID-19 update, August 12</title>
-      <link>https://www.youtube.com/watch?v=rk-IvJDh7dY</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/rk-IvJDh7dY.mp3"
-        length="54547160"
+      <title>BC's COVID-19 update, August 20</title>
+      <link>https://www.youtube.com/watch?v=UyR_7wlQVCA</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/UyR_7wlQVCA.mp3"
+        length="53081795"
         type="audio/mpeg"/>
-      <pubDate>Thu, 12 Aug 2021 20:01:02 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/rk-IvJDh7dY</guid>
-      <dc:date>2021-08-12T20:01:02+00:00</dc:date>
+      <pubDate>Fri, 20 Aug 2021 22:29:17 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/UyR_7wlQVCA</guid>
+      <dc:date>2021-08-20T22:29:17+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
