@@ -10,25 +10,14 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
-      <title>COVID-19 vaccinations in BC update, August 23</title>
-      <link>https://www.youtube.com/watch?v=AKJXVAIv4Vk</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/AKJXVAIv4Vk.mp3"
-        length="56993893"
+      <title>COVID-19 Update, Sept. 21, 2021</title>
+      <link>https://www.youtube.com/watch?v=dDC752q-N7s</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/dDC752q-N7s.mp3"
+        length="74619650"
         type="audio/mpeg"/>
-      <pubDate>Mon, 23 Aug 2021 21:04:20 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/AKJXVAIv4Vk</guid>
-      <dc:date>2021-08-23T21:04:20+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>BC's COVID-19 update, August 20</title>
-      <link>https://www.youtube.com/watch?v=UyR_7wlQVCA</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/UyR_7wlQVCA.mp3"
-        length="53081795"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 20 Aug 2021 22:29:17 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/UyR_7wlQVCA</guid>
-      <dc:date>2021-08-20T22:29:17+00:00</dc:date>
+      <pubDate>Tue, 21 Sep 2021 19:51:55 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/dDC752q-N7s</guid>
+      <dc:date>2021-09-21T19:51:55+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
