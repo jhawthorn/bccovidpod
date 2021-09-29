@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>COVID-19 Update, Sept. 28, 2021</title>
+      <link>https://www.youtube.com/watch?v=mEuNrszVpCE</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/mEuNrszVpCE.mp3"
+        length="67982458"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 28 Sep 2021 20:45:50 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/mEuNrszVpCE</guid>
+      <dc:date>2021-09-28T20:45:50+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Premier John Horgan Media Availability September 23, 2021</title>
       <link>https://www.youtube.com/watch?v=N3WfNPcTH24</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/N3WfNPcTH24.mp3"
