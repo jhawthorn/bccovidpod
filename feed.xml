@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>COVID-19 Update, October 19, 2021</title>
+      <link>https://www.youtube.com/watch?v=9tNlIkL_j2M</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/9tNlIkL_j2M.mp3"
+        length="77470131"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 19 Oct 2021 21:55:21 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/9tNlIkL_j2M</guid>
+      <dc:date>2021-10-19T21:55:21+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>COVID-19 Update, October 14, 2021</title>
       <link>https://www.youtube.com/watch?v=p0W978XRvEI</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/p0W978XRvEI.mp3"
