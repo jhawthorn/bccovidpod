@@ -20,17 +20,6 @@
       <dc:date>2021-11-23T22:50:00+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
-    <item>
-      <title>COVID-19 Update, November 16, 2021</title>
-      <link>https://www.youtube.com/watch?v=3_LXM3bznKQ</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/3_LXM3bznKQ.mp3"
-        length="61673782"
-        type="audio/mpeg"/>
-      <pubDate>Tue, 16 Nov 2021 22:40:42 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/3_LXM3bznKQ</guid>
-      <dc:date>2021-11-16T22:40:42+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
