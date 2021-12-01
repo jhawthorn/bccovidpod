@@ -10,14 +10,14 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
-      <title>COVID-19 Update, November 23, 2021</title>
-      <link>https://www.youtube.com/watch?v=0tdA0mw1nKM</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/0tdA0mw1nKM.mp3"
-        length="71283499"
+      <title>COVID-19 Update, November 30, 2021</title>
+      <link>https://www.youtube.com/watch?v=A57oDsYPBI8</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/A57oDsYPBI8.mp3"
+        length="59709792"
         type="audio/mpeg"/>
-      <pubDate>Tue, 23 Nov 2021 22:50:00 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/0tdA0mw1nKM</guid>
-      <dc:date>2021-11-23T22:50:00+00:00</dc:date>
+      <pubDate>Tue, 30 Nov 2021 22:38:09 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/A57oDsYPBI8</guid>
+      <dc:date>2021-11-30T22:38:09+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
