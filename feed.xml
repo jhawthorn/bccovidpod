@@ -64,17 +64,6 @@
       <dc:date>2021-12-16T01:00:21+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
-    <item>
-      <title>COVID-19 Update, December 14, 2021</title>
-      <link>https://www.youtube.com/watch?v=_1Of0L5AFZI</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/_1Of0L5AFZI.mp3"
-        length="92983522"
-        type="audio/mpeg"/>
-      <pubDate>Tue, 14 Dec 2021 23:08:43 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/_1Of0L5AFZI</guid>
-      <dc:date>2021-12-14T23:08:43+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
