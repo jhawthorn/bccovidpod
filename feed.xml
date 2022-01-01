@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>COVID-19 Update for December 31, 2021</title>
+      <link>https://www.youtube.com/watch?v=pzvbPUfegpE</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/pzvbPUfegpE.mp3"
+        length="65377736"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 31 Dec 2021 19:15:57 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/pzvbPUfegpE</guid>
+      <dc:date>2021-12-31T19:15:57+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>COVID-19 Update for December 29, 2021</title>
       <link>https://www.youtube.com/watch?v=eVHoXZZIErw</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/eVHoXZZIErw.mp3"
@@ -51,28 +62,6 @@
       <pubDate>Mon, 20 Dec 2021 17:32:17 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/MT2l9Q4c1tg</guid>
       <dc:date>2021-12-20T17:32:17+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 Update, December 17, 2021</title>
-      <link>https://www.youtube.com/watch?v=xdEhB7x4xMg</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/xdEhB7x4xMg.mp3"
-        length="53408221"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 17 Dec 2021 22:06:48 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/xdEhB7x4xMg</guid>
-      <dc:date>2021-12-17T22:06:48+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 Update, December 15, 2021</title>
-      <link>https://www.youtube.com/watch?v=XYttjgh6tts</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/XYttjgh6tts.mp3"
-        length="51474742"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 16 Dec 2021 01:00:21 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/XYttjgh6tts</guid>
-      <dc:date>2021-12-16T01:00:21+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
