@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>COVID-19 Update for January 4, 2022</title>
+      <link>https://www.youtube.com/watch?v=-A5Qd_MVfTw</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/-A5Qd_MVfTw.mp3"
+        length="58701674"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 04 Jan 2022 22:35:54 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/-A5Qd_MVfTw</guid>
+      <dc:date>2022-01-04T22:35:54+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>COVID-19 Update for December 31, 2021</title>
       <link>https://www.youtube.com/watch?v=pzvbPUfegpE</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/pzvbPUfegpE.mp3"
