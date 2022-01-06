@@ -65,14 +65,14 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Covid-19 Update</title>
-      <link>https://www.youtube.com/watch?v=MT2l9Q4c1tg</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/MT2l9Q4c1tg.mp3"
-        length="561"
+      <title>COVID-19 Update, December 17, 2021</title>
+      <link>https://www.youtube.com/watch?v=xdEhB7x4xMg</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/xdEhB7x4xMg.mp3"
+        length="53408221"
         type="audio/mpeg"/>
-      <pubDate>Mon, 20 Dec 2021 17:32:17 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/MT2l9Q4c1tg</guid>
-      <dc:date>2021-12-20T17:32:17+00:00</dc:date>
+      <pubDate>Fri, 17 Dec 2021 22:06:48 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/xdEhB7x4xMg</guid>
+      <dc:date>2021-12-17T22:06:48+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
