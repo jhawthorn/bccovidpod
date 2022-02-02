@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>COVID-19 Update for February 1, 2022</title>
+      <link>https://www.youtube.com/watch?v=h1n9HuznhT4</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/h1n9HuznhT4.mp3"
+        length="76314474"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 01 Feb 2022 23:02:23 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/h1n9HuznhT4</guid>
+      <dc:date>2022-02-01T23:02:23+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>COVID-19 Update for January 28, 2022</title>
       <link>https://www.youtube.com/watch?v=gJIxNLhhUkw</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/gJIxNLhhUkw.mp3"
@@ -62,17 +73,6 @@
       <pubDate>Fri, 14 Jan 2022 20:48:25 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/a6_IkJgvgT0</guid>
       <dc:date>2022-01-14T20:48:25+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 Update for January 11, 2022</title>
-      <link>https://www.youtube.com/watch?v=qZ3fTKzpvbI</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/qZ3fTKzpvbI.mp3"
-        length="64250918"
-        type="audio/mpeg"/>
-      <pubDate>Tue, 11 Jan 2022 22:45:37 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/qZ3fTKzpvbI</guid>
-      <dc:date>2022-01-11T22:45:37+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
