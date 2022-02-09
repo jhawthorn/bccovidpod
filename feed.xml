@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>Premier Horgan, Live Media Availability, February 8, 2022</title>
+      <link>https://www.youtube.com/watch?v=dwz_HXD5mK4</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/dwz_HXD5mK4.mp3"
+        length="38798876"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 09 Feb 2022 00:02:00 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/dwz_HXD5mK4</guid>
+      <dc:date>2022-02-09T00:02:00+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Council of the Federation Winter Meeting Media Availability February 4, 2022</title>
       <link>https://www.youtube.com/watch?v=xdWTUo9O1PY</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/xdWTUo9O1PY.mp3"
@@ -62,17 +73,6 @@
       <pubDate>Sat, 22 Jan 2022 02:20:58 +0000</pubDate>
       <guid isPermaLink="false">jhawthorn/bccovidpod/7Y5mmR9tPWE</guid>
       <dc:date>2022-01-22T02:20:58+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>COVID-19 Update for January 18, 2022</title>
-      <link>https://www.youtube.com/watch?v=SpviJgHoW9E</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/SpviJgHoW9E.mp3"
-        length="71158530"
-        type="audio/mpeg"/>
-      <pubDate>Tue, 18 Jan 2022 22:51:39 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/SpviJgHoW9E</guid>
-      <dc:date>2022-01-18T22:51:39+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
