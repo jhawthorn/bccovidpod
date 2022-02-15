@@ -53,17 +53,6 @@
       <dc:date>2022-02-01T23:02:23+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
-    <item>
-      <title>COVID-19 Update for January 28, 2022</title>
-      <link>https://www.youtube.com/watch?v=gJIxNLhhUkw</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/gJIxNLhhUkw.mp3"
-        length="72206771"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 28 Jan 2022 21:23:06 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/gJIxNLhhUkw</guid>
-      <dc:date>2022-01-28T21:23:06+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
