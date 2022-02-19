@@ -42,17 +42,6 @@
       <dc:date>2022-02-09T00:02:00+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
-    <item>
-      <title>Council of the Federation Winter Meeting Media Availability February 4, 2022</title>
-      <link>https://www.youtube.com/watch?v=xdWTUo9O1PY</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/xdWTUo9O1PY.mp3"
-        length="52059049"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 04 Feb 2022 21:10:23 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/xdWTUo9O1PY</guid>
-      <dc:date>2022-02-04T21:10:23+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
