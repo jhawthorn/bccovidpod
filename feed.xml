@@ -53,17 +53,6 @@
       <dc:date>2022-02-24T00:25:49+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
-    <item>
-      <title>COVID-19 Update for February 15, 2022</title>
-      <link>https://www.youtube.com/watch?v=oZdwMrfhyFI</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/oZdwMrfhyFI.mp3"
-        length="58801148"
-        type="audio/mpeg"/>
-      <pubDate>Tue, 15 Feb 2022 22:40:33 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/oZdwMrfhyFI</guid>
-      <dc:date>2022-02-15T22:40:33+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
