@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>COVID-19 Update for March 10, 2022</title>
+      <link>https://www.youtube.com/watch?v=vaKpa0K-QX4</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/vaKpa0K-QX4.mp3"
+        length="68948779"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 10 Mar 2022 21:48:50 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/vaKpa0K-QX4</guid>
+      <dc:date>2022-03-10T21:48:50+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Premier Horgan, Media Availability, March 3, 2022</title>
       <link>https://www.youtube.com/watch?v=f62f0YiOwYU</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/f62f0YiOwYU.mp3"
