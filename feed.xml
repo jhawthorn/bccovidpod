@@ -64,17 +64,6 @@
       <dc:date>2022-02-25T19:32:45+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
-    <item>
-      <title>COVID-19 Update for February 23, 2022</title>
-      <link>https://www.youtube.com/watch?v=NMYWvS-uQWk</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/NMYWvS-uQWk.mp3"
-        length="67695738"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 24 Feb 2022 00:25:49 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/NMYWvS-uQWk</guid>
-      <dc:date>2022-02-24T00:25:49+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
     <itunes:category text="Government"/>
     <itunes:category text="News"/>
     <itunes:category text="Health &amp; Fitness"/>
