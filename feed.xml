@@ -11,6 +11,17 @@
     <language>en</language>
     <item>
       <title>Covid-19 Update</title>
+      <link>https://www.youtube.com/watch?v=JRZPAY5u7H8</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/JRZPAY5u7H8.mp3"
+        length="561"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 17 May 2022 20:18:32 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/JRZPAY5u7H8</guid>
+      <dc:date>2022-05-17T20:18:32+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Covid-19 Update</title>
       <link>https://www.youtube.com/watch?v=BjeqYnCwGyU</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/BjeqYnCwGyU.mp3"
         length="561"
