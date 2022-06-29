@@ -10,25 +10,14 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
-      <title>Covid-19 Update</title>
-      <link>https://www.youtube.com/watch?v=JRZPAY5u7H8</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/JRZPAY5u7H8.mp3"
-        length="561"
+      <title>Premier John Horgan - Media Availability - June 28, 2022</title>
+      <link>https://www.youtube.com/watch?v=2L1BCPYkiME</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/2L1BCPYkiME.mp3"
+        length="22462941"
         type="audio/mpeg"/>
-      <pubDate>Tue, 17 May 2022 20:18:32 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/JRZPAY5u7H8</guid>
-      <dc:date>2022-05-17T20:18:32+00:00</dc:date>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Covid-19 Update</title>
-      <link>https://www.youtube.com/watch?v=BjeqYnCwGyU</link>
-      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/BjeqYnCwGyU.mp3"
-        length="561"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 13 May 2022 20:19:50 +0000</pubDate>
-      <guid isPermaLink="false">jhawthorn/bccovidpod/BjeqYnCwGyU</guid>
-      <dc:date>2022-05-13T20:19:50+00:00</dc:date>
+      <pubDate>Tue, 28 Jun 2022 21:05:05 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/2L1BCPYkiME</guid>
+      <dc:date>2022-06-28T21:05:05+00:00</dc:date>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <itunes:category text="Government"/>
