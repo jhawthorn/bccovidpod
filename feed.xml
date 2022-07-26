@@ -10,6 +10,17 @@
     <description>Province of BC COVID-19 updates, pulled from youtube into a podcast for easy listening. UNOFFICIAL, check https://www.youtube.com/user/ProvinceofBC for updates and http://covid-19.bccdc.ca/ for info. Be Calm, Be Kind, Be Safe.</description>
     <language>en</language>
     <item>
+      <title>Media availability regarding incidents in Langley and Langley Township</title>
+      <link>https://www.youtube.com/watch?v=wT01V8I9vp4</link>
+      <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/wT01V8I9vp4.mp3"
+        length="12129736"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 25 Jul 2022 23:31:23 +0000</pubDate>
+      <guid isPermaLink="false">jhawthorn/bccovidpod/wT01V8I9vp4</guid>
+      <dc:date>2022-07-25T23:31:23+00:00</dc:date>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Premier John Horgan - Media Availability - June 28, 2022</title>
       <link>https://www.youtube.com/watch?v=2L1BCPYkiME</link>
       <enclosure url="https://bccovidpod.s3.us-east-1.amazonaws.com/2L1BCPYkiME.mp3"
