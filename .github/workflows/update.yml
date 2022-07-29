@@ -6,7 +6,12 @@ on:
     branches: [ main ]
   schedule:
     - cron: 0 0 * * *
-
+    
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  
 jobs:
   update:
     runs-on: ubuntu-latest
